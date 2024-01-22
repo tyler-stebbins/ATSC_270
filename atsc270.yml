@@ -1,6 +1,7 @@
 name: atsc270
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - python=3.11
   - jupyter
